@@ -1,7 +1,8 @@
-# indigo
+# IMPROVED POTATO
+A common URL Shortener
 
-![Screenshot_2022-03-14_16-41-55](https://user-images.githubusercontent.com/76118762/158095792-8d41613b-ee7b-4a45-a63c-99ba5003ce46.png)
+![Screenshot from 2022-04-20 21-00-52](https://user-images.githubusercontent.com/76118762/164248280-bb8ac026-d268-4416-b545-30bcabe79129.png)
 
-See [Demo](https://indigo-note.netlify.app).
+See [Demo](https://improved-potato-eosin.vercel.app/).
 
 
